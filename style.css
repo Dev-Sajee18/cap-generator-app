@@ -21,7 +21,7 @@
 	padding: 10px;
 	padding-bottom: 0px;
 	height: 40px;
-	border: red 0px solid;
+	border: rgb(13, 4, 64) 0px solid;
 }
 input{
 	border:1px black solid;
@@ -33,5 +33,5 @@ input{
 	box-shadow: 5px 5px 5px grey;
 	color: aqua;
 	margin: 10px;
-	background-color: brown;
+	background-color: rgb(64, 18, 113);
 }
